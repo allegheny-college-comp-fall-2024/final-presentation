@@ -8,6 +8,9 @@
 | 18 April 2025   | Presentation Group 2 |
 | 25 April 2025   | Presentation Group 2 |
 
+## Presentation Schedule
+
+* [Presentation Schedule](https://docs.google.com/spreadsheets/d/1ni0pHcEi_nzXwI1k_B-I3SnM9DFVG5AB-2WILd9tEcA/edit?usp=sharing)
 
 ## Final Presentation
 
